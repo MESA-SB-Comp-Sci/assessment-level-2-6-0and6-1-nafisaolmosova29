@@ -26,9 +26,8 @@
 
 .box {
     background-color: white;
-    padding:20px 
-    
-    
+    border: 10px solid orange; 
+    padding-bottom: 40px;
     
 
 }
@@ -36,3 +35,7 @@
 .white {
     color:white;
 }
+
+}
+
+
