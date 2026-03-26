@@ -2,3 +2,37 @@
     box-sizing: border-box;
 }
 
+.ar {
+    background-color: pink;
+    color:white; 
+}
+
+.bg {
+    background-color: dimgray;
+}
+
+#yt {
+    color:rgb(238, 242, 41);
+}
+
+.gr {
+    color:chartreuse;
+
+}
+
+.blue {
+    color:cornflowerblue
+}
+
+.box {
+    background-color: white;
+    padding:20px 
+    
+    
+    
+
+}
+
+.white {
+    color:white;
+}
